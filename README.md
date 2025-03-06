@@ -1,4 +1,4 @@
-## Hi! I'm Priscila Freitas, Software Engineer at John Deere!
+## Hi! I'm Priscila Freitas, Software Engineer at John Deere.
 
 <div style="display: inline_block"><br>
 
