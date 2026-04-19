@@ -47,7 +47,7 @@ Currently working at John Deere in finance and foreign trade systems, developing
   <img alt="Databricks" height="40" src="https://cdn.simpleicons.org/databricks/FF3621">
   <img alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="GitHub" height="28"src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="Github" height="40"src="https://cdn.simpleicons.org/github/FFFFFF" />
 </p>
 
 **Backend**  
